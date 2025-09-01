@@ -1,0 +1,2754 @@
+{
+    "621e2e8e67b776a24055b564": {
+        "calories": {
+            "current_value": 2547.5,
+            "7_day_moving_average": 2421.2957142857144,
+            "7_day_std_dev": 363.583431638331,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 11435.0,
+            "7_day_moving_average": 9182.142857142857,
+            "7_day_std_dev": 5629.114478274874,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 8422.6,
+            "7_day_moving_average": 6770.957142857143,
+            "7_day_std_dev": 4155.9359081748535,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 190.0,
+            "7_day_moving_average": 145.57142857142858,
+            "7_day_std_dev": 31.330800302881638,
+            "trend": "high"
+        },
+        "moderately_active_minutes": {
+            "current_value": 38.0,
+            "7_day_moving_average": 32.0,
+            "7_day_std_dev": 30.44667469527666,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 30.0,
+            "7_day_moving_average": 34.142857142857146,
+            "7_day_std_dev": 26.314942342254724,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 609.0,
+            "7_day_moving_average": 696.8571428571429,
+            "7_day_std_dev": 93.91561561925076,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 34380000.0,
+            "7_day_moving_average": 31885714.285714287,
+            "7_day_std_dev": 6078373.842684289,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 94.0,
+            "7_day_moving_average": 94.14285714285714,
+            "7_day_std_dev": 1.573591584938887,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 84.0,
+            "7_day_moving_average": 80.0,
+            "7_day_std_dev": 3.366501646120692,
+            "trend": "high"
+        },
+        "rmssd": {
+            "current_value": 86.15,
+            "7_day_moving_average": 92.41114285714286,
+            "7_day_std_dev": 8.161788436132763,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 57.942,
+            "7_day_moving_average": 57.281,
+            "7_day_std_dev": 2.1465075510388187,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 62.769837379455566,
+            "7_day_moving_average": 61.59840447562082,
+            "7_day_std_dev": 0.6496072741267709,
+            "trend": "high"
+        },
+        "bpm": {
+            "current_value": 72.89668757034893,
+            "7_day_moving_average": 72.80785353563374,
+            "7_day_std_dev": 4.422601933698859,
+            "trend": "moderate"
+        }
+    },
+    "621e2eaf67b776a2406b14ac": {
+        "calories": {
+            "current_value": 2372.15,
+            "7_day_moving_average": 2302.9285714285716,
+            "7_day_std_dev": 246.34511018951787,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 16156.0,
+            "7_day_moving_average": 17717.571428571428,
+            "7_day_std_dev": 5530.8812696574505,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 11214.7,
+            "7_day_moving_average": 12336.228571428572,
+            "7_day_std_dev": 3872.822427168712,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 380.0,
+            "7_day_moving_average": 344.7142857142857,
+            "7_day_std_dev": 55.505898442460705,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 24.0,
+            "7_day_moving_average": 37.857142857142854,
+            "7_day_std_dev": 27.00264537305294,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 32.0,
+            "7_day_moving_average": 37.57142857142857,
+            "7_day_std_dev": 16.86077442722351,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 703.0,
+            "7_day_moving_average": 567.5714285714286,
+            "7_day_std_dev": 153.8775023006473,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 18060000.0,
+            "7_day_moving_average": 27137142.85714286,
+            "7_day_std_dev": 6371377.9626433365,
+            "trend": "low"
+        },
+        "sleep_efficiency": {
+            "current_value": 91.0,
+            "7_day_moving_average": 94.14285714285714,
+            "7_day_std_dev": 2.968084198523315,
+            "trend": "low"
+        },
+        "stress_score": {
+            "current_value": 66.0,
+            "7_day_moving_average": 75.85714285714286,
+            "7_day_std_dev": 6.0670852812140215,
+            "trend": "low"
+        },
+        "rmssd": {
+            "current_value": 23.467,
+            "7_day_moving_average": 26.111857142857144,
+            "7_day_std_dev": 2.2686689510644356,
+            "trend": "low"
+        },
+        "nremhr": {
+            "current_value": 74.3,
+            "7_day_moving_average": 70.55714285714285,
+            "7_day_std_dev": 2.5542647623514787,
+            "trend": "high"
+        },
+        "resting_hr": {
+            "current_value": 71.47591876983643,
+            "7_day_moving_average": 68.91442353384835,
+            "7_day_std_dev": 1.368094206008906,
+            "trend": "high"
+        },
+        "bpm": {
+            "current_value": 86.22984562607203,
+            "7_day_moving_average": 83.8507475021476,
+            "7_day_std_dev": 2.589379924851746,
+            "trend": "moderate"
+        }
+    },
+    "621e2f1b67b776a240b3d87c": {
+        "calories": {
+            "current_value": 1615.98,
+            "7_day_moving_average": 1537.9485714285713,
+            "7_day_std_dev": 87.98580291322989,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 11549.0,
+            "7_day_moving_average": 8281.857142857143,
+            "7_day_std_dev": 1982.6373368631514,
+            "trend": "high"
+        },
+        "distance": {
+            "current_value": 7185.2,
+            "7_day_moving_average": 5149.442857142857,
+            "7_day_std_dev": 1235.9944132251605,
+            "trend": "high"
+        },
+        "lightly_active_minutes": {
+            "current_value": 391.0,
+            "7_day_moving_average": 340.85714285714283,
+            "7_day_std_dev": 42.01757002107798,
+            "trend": "high"
+        },
+        "moderately_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 2.7142857142857144,
+            "7_day_std_dev": 4.8550415622761225,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 0.7142857142857143,
+            "7_day_std_dev": 1.2535663410560174,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 465.0,
+            "7_day_moving_average": 553.2857142857143,
+            "7_day_std_dev": 132.2456228459179,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 35040000.0,
+            "7_day_moving_average": 30445714.285714287,
+            "7_day_std_dev": 7440149.768077829,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 93.0,
+            "7_day_moving_average": 91.57142857142857,
+            "7_day_std_dev": 2.9920529661723823,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 80.0,
+            "7_day_moving_average": 76.0,
+            "7_day_std_dev": 3.415650255319866,
+            "trend": "high"
+        },
+        "rmssd": {
+            "current_value": 21.564,
+            "7_day_moving_average": 25.971857142857143,
+            "7_day_std_dev": 4.085472939924722,
+            "trend": "low"
+        },
+        "nremhr": {
+            "current_value": 64.52,
+            "7_day_moving_average": 63.139,
+            "7_day_std_dev": 2.5123660163280337,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 64.50518131256104,
+            "7_day_moving_average": 65.15420995439801,
+            "7_day_std_dev": 0.881058021095324,
+            "trend": "moderate"
+        },
+        "bpm": {
+            "current_value": 72.41924694189602,
+            "7_day_moving_average": 73.40040499903397,
+            "7_day_std_dev": 2.119334017084578,
+            "trend": "moderate"
+        }
+    },
+    "621e2f3967b776a240c654db": {
+        "calories": {
+            "current_value": 2313.99,
+            "7_day_moving_average": 2104.8214285714284,
+            "7_day_std_dev": 257.0076440775365,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 9034.0,
+            "7_day_moving_average": 5967.714285714285,
+            "7_day_std_dev": 3314.7926890574277,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 6180.4,
+            "7_day_moving_average": 4082.8857142857146,
+            "7_day_std_dev": 2268.0038539271864,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 96.0,
+            "7_day_moving_average": 67.71428571428571,
+            "7_day_std_dev": 24.675995661872733,
+            "trend": "high"
+        },
+        "moderately_active_minutes": {
+            "current_value": 27.0,
+            "7_day_moving_average": 23.142857142857142,
+            "7_day_std_dev": 15.496543393378316,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 43.0,
+            "7_day_moving_average": 26.0,
+            "7_day_std_dev": 17.86057109949175,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 875.0,
+            "7_day_moving_average": 716.7142857142857,
+            "7_day_std_dev": 107.45652498524586,
+            "trend": "high"
+        },
+        "sleep_duration": {
+            "current_value": 23940000.0,
+            "7_day_moving_average": 37397142.85714286,
+            "7_day_std_dev": 11628587.925576223,
+            "trend": "low"
+        },
+        "sleep_efficiency": {
+            "current_value": 96.0,
+            "7_day_moving_average": 95.0,
+            "7_day_std_dev": 1.1547005383792524,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 0.0,
+            "7_day_moving_average": 0.0,
+            "7_day_std_dev": 0.0,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 25.699,
+            "7_day_moving_average": 28.797571428571427,
+            "7_day_std_dev": 4.635881536347497,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 55.253,
+            "7_day_moving_average": 32.013285714285715,
+            "7_day_std_dev": 29.963262571101332,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 64.91348361968994,
+            "7_day_moving_average": 65.32648100171771,
+            "7_day_std_dev": 0.9716961468780247,
+            "trend": "moderate"
+        },
+        "bpm": {
+            "current_value": 80.44720182324639,
+            "7_day_moving_average": 82.54121529029666,
+            "7_day_std_dev": 3.9831526147776577,
+            "trend": "moderate"
+        }
+    },
+    "621e2f6167b776a240e082a9": {
+        "calories": {
+            "current_value": 2473.09,
+            "7_day_moving_average": 2194.002857142857,
+            "7_day_std_dev": 216.13285402843363,
+            "trend": "high"
+        },
+        "steps": {
+            "current_value": 9521.0,
+            "7_day_moving_average": 6821.142857142857,
+            "7_day_std_dev": 2732.18584217664,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 6587.4,
+            "7_day_moving_average": 4709.4857142857145,
+            "7_day_std_dev": 1881.0531539792378,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 407.0,
+            "7_day_moving_average": 249.85714285714286,
+            "7_day_std_dev": 108.19184900202136,
+            "trend": "high"
+        },
+        "moderately_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 10.285714285714286,
+            "7_day_std_dev": 20.410081542498272,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 4.857142857142857,
+            "7_day_std_dev": 9.78823394742503,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 670.0,
+            "7_day_moving_average": 798.8571428571429,
+            "7_day_std_dev": 164.71736254508664,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 21780000.0,
+            "7_day_moving_average": 22568571.42857143,
+            "7_day_std_dev": 5862057.171822387,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 96.0,
+            "7_day_moving_average": 95.57142857142857,
+            "7_day_std_dev": 3.598941643369749,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 0.0,
+            "7_day_moving_average": 48.57142857142857,
+            "7_day_std_dev": 33.35094772694945,
+            "trend": "low"
+        },
+        "rmssd": {
+            "current_value": 20.421,
+            "7_day_moving_average": 22.831714285714288,
+            "7_day_std_dev": 4.402455478263834,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 62.049,
+            "7_day_moving_average": 62.269,
+            "7_day_std_dev": 5.605992983703541,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 61.405710220336914,
+            "7_day_moving_average": 60.866337639944895,
+            "7_day_std_dev": 1.3936061527187262,
+            "trend": "moderate"
+        },
+        "bpm": {
+            "current_value": 77.86101083032491,
+            "7_day_moving_average": 75.89825868739648,
+            "7_day_std_dev": 4.405569893415728,
+            "trend": "moderate"
+        }
+    },
+    "621e2f9167b776a240011ccb": {
+        "calories": {
+            "current_value": 1659.3,
+            "7_day_moving_average": 1788.8557142857142,
+            "7_day_std_dev": 122.78401427671581,
+            "trend": "low"
+        },
+        "steps": {
+            "current_value": 4958.0,
+            "7_day_moving_average": 6512.285714285715,
+            "7_day_std_dev": 1981.3598625090558,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 3474.3,
+            "7_day_moving_average": 4539.528571428572,
+            "7_day_std_dev": 1382.6800265116603,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 168.0,
+            "7_day_moving_average": 236.71428571428572,
+            "7_day_std_dev": 59.620226673264405,
+            "trend": "low"
+        },
+        "moderately_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 1.4285714285714286,
+            "7_day_std_dev": 3.779644730092272,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 0.0,
+            "7_day_std_dev": 0.0,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 879.0,
+            "7_day_moving_average": 809.1428571428571,
+            "7_day_std_dev": 82.79579009311317,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 23580000.0,
+            "7_day_moving_average": 23562857.14285714,
+            "7_day_std_dev": 6578666.821085951,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 98.0,
+            "7_day_moving_average": 96.85714285714286,
+            "7_day_std_dev": 1.2149857925879126,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 77.0,
+            "7_day_moving_average": 78.42857142857143,
+            "7_day_std_dev": 3.866830866792722,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 40.051,
+            "7_day_moving_average": 29.715857142857143,
+            "7_day_std_dev": 6.437328054106804,
+            "trend": "high"
+        },
+        "nremhr": {
+            "current_value": 54.726,
+            "7_day_moving_average": 59.63757142857143,
+            "7_day_std_dev": 2.6933320662420406,
+            "trend": "low"
+        },
+        "resting_hr": {
+            "current_value": 61.55497741699219,
+            "7_day_moving_average": 64.89331804003034,
+            "7_day_std_dev": 2.3375759561176865,
+            "trend": "low"
+        },
+        "bpm": {
+            "current_value": 71.84242342826437,
+            "7_day_moving_average": 74.34328357773938,
+            "7_day_std_dev": 2.0585288489584537,
+            "trend": "low"
+        }
+    },
+    "621e2fce67b776a240279baa": {
+        "calories": {
+            "current_value": 2040.4,
+            "7_day_moving_average": 2702.2671428571425,
+            "7_day_std_dev": 571.7150759400549,
+            "trend": "low"
+        },
+        "steps": {
+            "current_value": 742.0,
+            "7_day_moving_average": 4275.714285714285,
+            "7_day_std_dev": 4296.980983368274,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 545.9,
+            "7_day_moving_average": 3151.2285714285713,
+            "7_day_std_dev": 3172.8729886935203,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 48.0,
+            "7_day_moving_average": 143.57142857142858,
+            "7_day_std_dev": 66.88761007056823,
+            "trend": "low"
+        },
+        "moderately_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 31.0,
+            "7_day_std_dev": 35.59962546619463,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 20.285714285714285,
+            "7_day_std_dev": 29.976181020460704,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 673.0,
+            "7_day_moving_average": 758.2857142857143,
+            "7_day_std_dev": 78.42982911646625,
+            "trend": "low"
+        },
+        "sleep_duration": {
+            "current_value": 35340000.0,
+            "7_day_moving_average": 28097142.85714286,
+            "7_day_std_dev": 5418713.60590843,
+            "trend": "high"
+        },
+        "sleep_efficiency": {
+            "current_value": 98.0,
+            "7_day_moving_average": 97.14285714285714,
+            "7_day_std_dev": 2.544836041121407,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 72.0,
+            "7_day_moving_average": 74.42857142857143,
+            "7_day_std_dev": 4.276179870598791,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 21.96,
+            "7_day_moving_average": 28.741142857142854,
+            "7_day_std_dev": 5.024924856107184,
+            "trend": "low"
+        },
+        "nremhr": {
+            "current_value": 73.078,
+            "7_day_moving_average": 68.91714285714285,
+            "7_day_std_dev": 4.652381090315349,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 77.67568492889404,
+            "7_day_moving_average": 74.97484411512103,
+            "7_day_std_dev": 1.6581689554241568,
+            "trend": "high"
+        },
+        "bpm": {
+            "current_value": 79.79376111200905,
+            "7_day_moving_average": 88.65965622186232,
+            "7_day_std_dev": 6.281604711823541,
+            "trend": "low"
+        }
+    },
+    "621e30b267b776a240c5e13f": {
+        "calories": {
+            "current_value": 2152.03,
+            "7_day_moving_average": 2278.031428571429,
+            "7_day_std_dev": 208.60048876808915,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 7789.0,
+            "7_day_moving_average": 9441.714285714286,
+            "7_day_std_dev": 3812.43088305811,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 5715.0,
+            "7_day_moving_average": 6920.114285714286,
+            "7_day_std_dev": 2798.7651118714075,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 189.0,
+            "7_day_moving_average": 230.0,
+            "7_day_std_dev": 44.343357262766354,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 28.0,
+            "7_day_moving_average": 18.285714285714285,
+            "7_day_std_dev": 12.996336480130156,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 9.0,
+            "7_day_moving_average": 19.571428571428573,
+            "7_day_std_dev": 16.338677454199928,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 750.0,
+            "7_day_moving_average": 685.5714285714286,
+            "7_day_std_dev": 68.10496101082295,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 27840000.0,
+            "7_day_moving_average": 28097142.85714286,
+            "7_day_std_dev": 4039462.48192221,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 99.0,
+            "7_day_moving_average": 96.42857142857143,
+            "7_day_std_dev": 2.8784916685156974,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 81.0,
+            "7_day_moving_average": 66.57142857142857,
+            "7_day_std_dev": 29.55140799159516,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 42.16,
+            "7_day_moving_average": 47.63828571428571,
+            "7_day_std_dev": 6.676039162914033,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 62.939,
+            "7_day_moving_average": 60.98242857142857,
+            "7_day_std_dev": 2.4128026481765197,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 68.42548942565918,
+            "7_day_moving_average": 66.20324679783413,
+            "7_day_std_dev": 1.3695890676757678,
+            "trend": "high"
+        },
+        "bpm": {
+            "current_value": 78.88867939995082,
+            "7_day_moving_average": 79.37262837557259,
+            "7_day_std_dev": 2.344513420849927,
+            "trend": "moderate"
+        }
+    },
+    "621e30e467b776a240e817c7": {
+        "calories": {
+            "current_value": 2180.91,
+            "7_day_moving_average": 2855.964285714286,
+            "7_day_std_dev": 759.1226155208643,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 89.0,
+            "7_day_moving_average": 5088.571428571428,
+            "7_day_std_dev": 4536.3848623157655,
+            "trend": "low"
+        },
+        "distance": {
+            "current_value": 67.8,
+            "7_day_moving_average": 3738.785714285714,
+            "7_day_std_dev": 3145.0036054184798,
+            "trend": "low"
+        },
+        "lightly_active_minutes": {
+            "current_value": 12.0,
+            "7_day_moving_average": 41.857142857142854,
+            "7_day_std_dev": 27.297304942848427,
+            "trend": "low"
+        },
+        "moderately_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 10.857142857142858,
+            "7_day_std_dev": 13.981280001351466,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 37.0,
+            "7_day_std_dev": 52.76678248039512,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 872.0,
+            "7_day_moving_average": 789.5714285714286,
+            "7_day_std_dev": 131.97961603073045,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 33360000.0,
+            "7_day_moving_average": 33642857.14285714,
+            "7_day_std_dev": 6419412.52318755,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 93.0,
+            "7_day_moving_average": 92.28571428571429,
+            "7_day_std_dev": 3.773340063934768,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 70.0,
+            "7_day_moving_average": 20.714285714285715,
+            "7_day_std_dev": 35.405810661124946,
+            "trend": "high"
+        },
+        "rmssd": {
+            "current_value": 36.104,
+            "7_day_moving_average": 33.26014285714286,
+            "7_day_std_dev": 16.358291571642106,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 54.525,
+            "7_day_moving_average": 45.87557142857143,
+            "7_day_std_dev": 20.484063601225404,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 59.68889236450195,
+            "7_day_moving_average": 59.73196547372,
+            "7_day_std_dev": 1.5823497949165886,
+            "trend": "moderate"
+        },
+        "bpm": {
+            "current_value": 65.2125322997416,
+            "7_day_moving_average": 73.57021193657233,
+            "7_day_std_dev": 14.856301044714247,
+            "trend": "moderate"
+        }
+    },
+    "621e323667b776a240f19134": {
+        "calories": {
+            "current_value": 2060.07,
+            "7_day_moving_average": 1986.7628571428572,
+            "7_day_std_dev": 76.90913463611591,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 5171.0,
+            "7_day_moving_average": 4435.0,
+            "7_day_std_dev": 818.3974177215697,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 3572.9,
+            "7_day_moving_average": 3064.8142857142857,
+            "7_day_std_dev": 565.492409110772,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 216.0,
+            "7_day_moving_average": 170.57142857142858,
+            "7_day_std_dev": 41.25068541999087,
+            "trend": "high"
+        },
+        "moderately_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 4.142857142857143,
+            "7_day_std_dev": 5.429197958832454,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 1.7142857142857142,
+            "7_day_std_dev": 3.147183169877773,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 639.0,
+            "7_day_moving_average": 711.2857142857143,
+            "7_day_std_dev": 50.53947066638205,
+            "trend": "low"
+        },
+        "sleep_duration": {
+            "current_value": 35100000.0,
+            "7_day_moving_average": 30060000.0,
+            "7_day_std_dev": 5084328.864265175,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 92.0,
+            "7_day_moving_average": 95.42857142857143,
+            "7_day_std_dev": 3.1547394428670277,
+            "trend": "low"
+        },
+        "stress_score": {
+            "current_value": 69.0,
+            "7_day_moving_average": 62.714285714285715,
+            "7_day_std_dev": 28.152645143421754,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 29.622,
+            "7_day_moving_average": 31.16614285714286,
+            "7_day_std_dev": 6.674122849447994,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 69.015,
+            "7_day_moving_average": 67.92214285714286,
+            "7_day_std_dev": 1.6688735151364271,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 73.0461368560791,
+            "7_day_moving_average": 72.95811830248151,
+            "7_day_std_dev": 0.6222304259015564,
+            "trend": "moderate"
+        },
+        "bpm": {
+            "current_value": 80.05555555555556,
+            "7_day_moving_average": 78.82784976451806,
+            "7_day_std_dev": 2.0074906383037066,
+            "trend": "moderate"
+        }
+    },
+    "621e326767b776a24012e179": {
+        "calories": {
+            "current_value": 2456.71,
+            "7_day_moving_average": 2239.9142857142856,
+            "7_day_std_dev": 215.55444144941998,
+            "trend": "high"
+        },
+        "steps": {
+            "current_value": 20917.0,
+            "7_day_moving_average": 17435.428571428572,
+            "7_day_std_dev": 2704.8819356331032,
+            "trend": "high"
+        },
+        "distance": {
+            "current_value": 14510.6,
+            "7_day_moving_average": 11588.614285714286,
+            "7_day_std_dev": 1970.6044380921737,
+            "trend": "high"
+        },
+        "lightly_active_minutes": {
+            "current_value": 287.0,
+            "7_day_moving_average": 307.57142857142856,
+            "7_day_std_dev": 71.28547571293221,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 74.0,
+            "7_day_moving_average": 76.0,
+            "7_day_std_dev": 18.83259585576738,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 65.0,
+            "7_day_moving_average": 24.428571428571427,
+            "7_day_std_dev": 19.432422587496585,
+            "trend": "high"
+        },
+        "sedentary_minutes": {
+            "current_value": 599.0,
+            "7_day_moving_average": 612.2857142857143,
+            "7_day_std_dev": 56.20413474029078,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 24900000.0,
+            "7_day_moving_average": 25182857.14285714,
+            "7_day_std_dev": 1893477.526367066,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 95.0,
+            "7_day_moving_average": 93.71428571428571,
+            "7_day_std_dev": 1.976047040118708,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 81.0,
+            "7_day_moving_average": 80.28571428571429,
+            "7_day_std_dev": 3.5456210417116742,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 12.444,
+            "7_day_moving_average": 26.627000000000002,
+            "7_day_std_dev": 26.019309060772542,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 47.369,
+            "7_day_moving_average": 48.36385714285715,
+            "7_day_std_dev": 1.1656555278142036,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 55.68435955047608,
+            "7_day_moving_average": 55.0617276600429,
+            "7_day_std_dev": 0.9593467883212123,
+            "trend": "moderate"
+        },
+        "bpm": {
+            "current_value": 83.18956103952829,
+            "7_day_moving_average": 74.08965163950688,
+            "7_day_std_dev": 5.736320798855433,
+            "trend": "high"
+        }
+    },
+    "621e328667b776a240281372": {
+        "calories": {
+            "current_value": 3437.81,
+            "7_day_moving_average": 3296.5066666666667,
+            "7_day_std_dev": 455.7097490581772,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 8919.0,
+            "7_day_moving_average": 10185.833333333334,
+            "7_day_std_dev": 3589.0291398464105,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 6418.3,
+            "7_day_moving_average": 7537.183333333333,
+            "7_day_std_dev": 2743.447322925422,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 318.0,
+            "7_day_moving_average": 241.16666666666666,
+            "7_day_std_dev": 82.12287541645547,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 21.0,
+            "7_day_moving_average": 28.666666666666668,
+            "7_day_std_dev": 21.905859185767326,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 38.0,
+            "7_day_moving_average": 40.666666666666664,
+            "7_day_std_dev": 33.218468758608765,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 669.0,
+            "7_day_moving_average": 631.6666666666666,
+            "7_day_std_dev": 75.86742823285013,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 23640000.0,
+            "7_day_moving_average": 28590000.0,
+            "7_day_std_dev": 5122292.455531996,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 96.0,
+            "7_day_moving_average": 94.83333333333333,
+            "7_day_std_dev": 2.2286019533929053,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 87.0,
+            "7_day_moving_average": 72.0,
+            "7_day_std_dev": 35.32138162643132,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 36.155,
+            "7_day_moving_average": 52.778333333333336,
+            "7_day_std_dev": 28.60455605435377,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 64.903,
+            "7_day_moving_average": 66.62349999999999,
+            "7_day_std_dev": 4.92492837511369,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 68.16200923919678,
+            "7_day_moving_average": 68.79249954223633,
+            "7_day_std_dev": 1.238269024114337,
+            "trend": "moderate"
+        },
+        "bpm": {
+            "current_value": 83.13452761296212,
+            "7_day_moving_average": 87.14777468341676,
+            "7_day_std_dev": 6.860798442238339,
+            "trend": "moderate"
+        }
+    },
+    "621e329067b776a2402ffad2": {
+        "calories": {
+            "current_value": 3162.14,
+            "7_day_moving_average": 3504.16,
+            "7_day_std_dev": 328.6587258844652,
+            "trend": "low"
+        },
+        "steps": {
+            "current_value": 13555.0,
+            "7_day_moving_average": 14616.142857142857,
+            "7_day_std_dev": 2404.0909875024445,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 9824.4,
+            "7_day_moving_average": 10630.128571428571,
+            "7_day_std_dev": 1691.562847107457,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 245.0,
+            "7_day_moving_average": 322.2857142857143,
+            "7_day_std_dev": 58.76425865471371,
+            "trend": "low"
+        },
+        "moderately_active_minutes": {
+            "current_value": 46.0,
+            "7_day_moving_average": 61.142857142857146,
+            "7_day_std_dev": 23.348294523216406,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 49.0,
+            "7_day_moving_average": 53.42857142857143,
+            "7_day_std_dev": 27.48852574473661,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 855.0,
+            "7_day_moving_average": 588.0,
+            "7_day_std_dev": 150.65634182912225,
+            "trend": "high"
+        },
+        "sleep_duration": {
+            "current_value": 14700000.0,
+            "7_day_moving_average": 24368571.42857143,
+            "7_day_std_dev": 5540118.616574404,
+            "trend": "low"
+        },
+        "sleep_efficiency": {
+            "current_value": 87.0,
+            "7_day_moving_average": 92.57142857142857,
+            "7_day_std_dev": 3.3094381626464866,
+            "trend": "low"
+        },
+        "stress_score": {
+            "current_value": 74.0,
+            "7_day_moving_average": 68.85714285714286,
+            "7_day_std_dev": 30.569203301299666,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 40.733,
+            "7_day_moving_average": 29.483999999999998,
+            "7_day_std_dev": 6.022528566419036,
+            "trend": "high"
+        },
+        "nremhr": {
+            "current_value": 63.196,
+            "7_day_moving_average": 66.20228571428571,
+            "7_day_std_dev": 3.43929143450051,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 73.59077072143555,
+            "7_day_moving_average": 74.23399407523019,
+            "7_day_std_dev": 0.7615601672270875,
+            "trend": "moderate"
+        },
+        "bpm": {
+            "current_value": 89.41478274811608,
+            "7_day_moving_average": 91.35206856699406,
+            "7_day_std_dev": 2.882604346460366,
+            "trend": "moderate"
+        }
+    },
+    "621e32af67b776a24045b4cf": {
+        "calories": {
+            "current_value": 2672.12,
+            "7_day_moving_average": 2424.0614285714287,
+            "7_day_std_dev": 173.86356407909528,
+            "trend": "high"
+        },
+        "steps": {
+            "current_value": 7483.0,
+            "7_day_moving_average": 7141.571428571428,
+            "7_day_std_dev": 2377.5061764478382,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 5345.0,
+            "7_day_moving_average": 5005.942857142857,
+            "7_day_std_dev": 1682.5957990132813,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 268.0,
+            "7_day_moving_average": 202.28571428571428,
+            "7_day_std_dev": 67.74637575967756,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 13.0,
+            "7_day_moving_average": 12.0,
+            "7_day_std_dev": 13.203534880225574,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 17.0,
+            "7_day_moving_average": 15.285714285714286,
+            "7_day_std_dev": 18.490666886425753,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 696.0,
+            "7_day_moving_average": 767.7142857142857,
+            "7_day_std_dev": 69.96597812678745,
+            "trend": "low"
+        },
+        "sleep_duration": {
+            "current_value": 26760000.0,
+            "7_day_moving_average": 26562857.14285714,
+            "7_day_std_dev": 2823978.955809895,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 90.0,
+            "7_day_moving_average": 91.14285714285714,
+            "7_day_std_dev": 2.4102953780654777,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 76.0,
+            "7_day_moving_average": 70.14285714285714,
+            "7_day_std_dev": 3.8483144114694925,
+            "trend": "high"
+        },
+        "rmssd": {
+            "current_value": 42.13,
+            "7_day_moving_average": 41.30414285714286,
+            "7_day_std_dev": 4.25908203836505,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 51.932,
+            "7_day_moving_average": 54.24185714285714,
+            "7_day_std_dev": 2.3773348823540075,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 62.1810941696167,
+            "7_day_moving_average": 62.45973300933838,
+            "7_day_std_dev": 0.912616719066454,
+            "trend": "moderate"
+        },
+        "bpm": {
+            "current_value": 75.94791304347827,
+            "7_day_moving_average": 74.36593676450823,
+            "7_day_std_dev": 1.9294759259717436,
+            "trend": "moderate"
+        }
+    },
+    "621e32d967b776a240627414": {
+        "calories": {
+            "current_value": 3044.46,
+            "7_day_moving_average": 3926.5950000000003,
+            "7_day_std_dev": 1247.5272808439904,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 1908.0,
+            "7_day_moving_average": 8627.5,
+            "7_day_std_dev": 9502.808032366012,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 1412.7,
+            "7_day_moving_average": 6402.5,
+            "7_day_std_dev": 7056.642833529269,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 112.0,
+            "7_day_moving_average": 110.0,
+            "7_day_std_dev": 2.8284271247461903,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 7.0,
+            "7_day_moving_average": 28.0,
+            "7_day_std_dev": 29.698484809834994,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 3.0,
+            "7_day_moving_average": 87.5,
+            "7_day_std_dev": 119.50104602052653,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 964.0,
+            "7_day_moving_average": 777.0,
+            "7_day_std_dev": 264.45793616376875,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 21240000.0,
+            "7_day_moving_average": 26250000.0,
+            "7_day_std_dev": 7085209.947489206,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 93.0,
+            "7_day_moving_average": 94.0,
+            "7_day_std_dev": 1.4142135623730951,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 67.0,
+            "7_day_moving_average": 67.0,
+            "7_day_std_dev": 0.0,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 29.962,
+            "7_day_moving_average": 27.436,
+            "7_day_std_dev": 3.5723034585544378,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 68.67,
+            "7_day_moving_average": 67.67099999999999,
+            "7_day_std_dev": 1.4127993488107302,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 67.85363483428955,
+            "7_day_moving_average": 67.89643335342407,
+            "7_day_std_dev": 0.0605262462095247,
+            "trend": "moderate"
+        },
+        "bpm": {
+            "current_value": 74.01695428398426,
+            "7_day_moving_average": 75.98146689672669,
+            "7_day_std_dev": 2.778240380393341,
+            "trend": "moderate"
+        }
+    },
+    "621e32e667b776a2406d2f1c": {
+        "calories": {
+            "current_value": 1297.56,
+            "7_day_moving_average": 1278.4171428571428,
+            "7_day_std_dev": 77.54484459852588,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 4527.0,
+            "7_day_moving_average": 4475.571428571428,
+            "7_day_std_dev": 1884.842774799608,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 3336.8,
+            "7_day_moving_average": 3294.0714285714284,
+            "7_day_std_dev": 1388.9392543883814,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 175.0,
+            "7_day_moving_average": 175.42857142857142,
+            "7_day_std_dev": 51.75537699233818,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 8.0,
+            "7_day_moving_average": 1.1428571428571428,
+            "7_day_std_dev": 3.023715784073818,
+            "trend": "high"
+        },
+        "very_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 0.0,
+            "7_day_std_dev": 0.0,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 834.0,
+            "7_day_moving_average": 854.0,
+            "7_day_std_dev": 79.54244150137711,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 25380000.0,
+            "7_day_moving_average": 23914285.714285713,
+            "7_day_std_dev": 2973252.1876606047,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 93.0,
+            "7_day_moving_average": 92.42857142857143,
+            "7_day_std_dev": 2.2990681342044423,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 70.0,
+            "7_day_moving_average": 61.57142857142857,
+            "7_day_std_dev": 27.281600288210996,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 26.883,
+            "7_day_moving_average": 26.29642857142857,
+            "7_day_std_dev": 1.5172039916837001,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 78.928,
+            "7_day_moving_average": 75.66514285714285,
+            "7_day_std_dev": 2.4034124648487802,
+            "trend": "high"
+        },
+        "resting_hr": {
+            "current_value": 79.12368106842041,
+            "7_day_moving_average": 77.66371849605015,
+            "7_day_std_dev": 0.9506303526483215,
+            "trend": "high"
+        },
+        "bpm": {
+            "current_value": 82.90625502492362,
+            "7_day_moving_average": 84.46514274008813,
+            "7_day_std_dev": 2.264601806272776,
+            "trend": "moderate"
+        }
+    },
+    "621e332267b776a24092a584": {
+        "calories": {
+            "current_value": 3781.77,
+            "7_day_moving_average": 3457.1228571428574,
+            "7_day_std_dev": 487.12554999419086,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 16008.0,
+            "7_day_moving_average": 15642.285714285714,
+            "7_day_std_dev": 7949.537758349763,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 12556.5,
+            "7_day_moving_average": 12573.227142857142,
+            "7_day_std_dev": 6293.183272887987,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 188.0,
+            "7_day_moving_average": 196.85714285714286,
+            "7_day_std_dev": 95.4907125875401,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 105.0,
+            "7_day_moving_average": 64.85714285714286,
+            "7_day_std_dev": 39.23615922177132,
+            "trend": "high"
+        },
+        "very_active_minutes": {
+            "current_value": 85.0,
+            "7_day_moving_average": 66.85714285714286,
+            "7_day_std_dev": 49.91802804407966,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 400.0,
+            "7_day_moving_average": 531.2857142857143,
+            "7_day_std_dev": 133.79052568065035,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 39720000.0,
+            "7_day_moving_average": 33334285.714285713,
+            "7_day_std_dev": 8958360.81944842,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 95.0,
+            "7_day_moving_average": 93.71428571428571,
+            "7_day_std_dev": 2.5634797778466245,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 0.0,
+            "7_day_moving_average": 10.428571428571429,
+            "7_day_std_dev": 27.591406529673588,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 27.38,
+            "7_day_moving_average": 37.349428571428575,
+            "7_day_std_dev": 23.50305055985388,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 64.12,
+            "7_day_moving_average": 57.71371428571428,
+            "7_day_std_dev": 3.9816830492596846,
+            "trend": "high"
+        },
+        "resting_hr": {
+            "current_value": 66.59604549407959,
+            "7_day_moving_average": 62.70768942151751,
+            "7_day_std_dev": 1.9671806287431015,
+            "trend": "high"
+        },
+        "bpm": {
+            "current_value": 84.45438441098317,
+            "7_day_moving_average": 81.75294246046857,
+            "7_day_std_dev": 5.496436182338037,
+            "trend": "moderate"
+        }
+    },
+    "621e333967b776a240a3cd06": {
+        "calories": {
+            "current_value": 2270.41,
+            "7_day_moving_average": 2346.9957142857143,
+            "7_day_std_dev": 516.531649461326,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 6008.0,
+            "7_day_moving_average": 5471.285714285715,
+            "7_day_std_dev": 5182.437769823699,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 4305.8,
+            "7_day_moving_average": 3809.828571428571,
+            "7_day_std_dev": 3635.5339134320134,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 126.0,
+            "7_day_moving_average": 170.57142857142858,
+            "7_day_std_dev": 125.68327539607533,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 14.0,
+            "7_day_moving_average": 8.428571428571429,
+            "7_day_std_dev": 11.60254487683834,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 26.0,
+            "7_day_moving_average": 11.0,
+            "7_day_std_dev": 15.50268793897798,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 670.0,
+            "7_day_moving_average": 742.4285714285714,
+            "7_day_std_dev": 208.42813081320313,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 36240000.0,
+            "7_day_moving_average": 30454285.714285713,
+            "7_day_std_dev": 9473913.054880152,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 92.0,
+            "7_day_moving_average": 93.14285714285714,
+            "7_day_std_dev": 1.2149857925879117,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 73.0,
+            "7_day_moving_average": 49.57142857142857,
+            "7_day_std_dev": 33.95515249490688,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 84.69,
+            "7_day_moving_average": 74.85114285714285,
+            "7_day_std_dev": 9.796365200565825,
+            "trend": "high"
+        },
+        "nremhr": {
+            "current_value": 58.506,
+            "7_day_moving_average": 61.65157142857144,
+            "7_day_std_dev": 2.4678340609491873,
+            "trend": "low"
+        },
+        "resting_hr": {
+            "current_value": 64.85366725921631,
+            "7_day_moving_average": 68.03654439108712,
+            "7_day_std_dev": 2.8923653566564447,
+            "trend": "low"
+        },
+        "bpm": {
+            "current_value": 84.32782831405105,
+            "7_day_moving_average": 80.36628337749876,
+            "7_day_std_dev": 5.296076426469361,
+            "trend": "moderate"
+        }
+    },
+    "621e337667b776a240ce78ab": {
+        "calories": {
+            "current_value": 2420.41,
+            "7_day_moving_average": 2752.214285714286,
+            "7_day_std_dev": 331.2061215143395,
+            "trend": "low"
+        },
+        "steps": {
+            "current_value": 6389.0,
+            "7_day_moving_average": 8749.42857142857,
+            "7_day_std_dev": 2047.3687875858986,
+            "trend": "low"
+        },
+        "distance": {
+            "current_value": 4713.8,
+            "7_day_moving_average": 6427.3,
+            "7_day_std_dev": 1514.389343376839,
+            "trend": "low"
+        },
+        "lightly_active_minutes": {
+            "current_value": 121.0,
+            "7_day_moving_average": 193.14285714285714,
+            "7_day_std_dev": 61.30641231124351,
+            "trend": "low"
+        },
+        "moderately_active_minutes": {
+            "current_value": 42.0,
+            "7_day_moving_average": 40.57142857142857,
+            "7_day_std_dev": 29.50060532066612,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 1.0,
+            "7_day_moving_average": 18.714285714285715,
+            "7_day_std_dev": 11.484979839109945,
+            "trend": "low"
+        },
+        "sedentary_minutes": {
+            "current_value": 826.0,
+            "7_day_moving_average": 666.2857142857143,
+            "7_day_std_dev": 105.15974243298349,
+            "trend": "high"
+        },
+        "sleep_duration": {
+            "current_value": 27000000.0,
+            "7_day_moving_average": 31277142.85714286,
+            "7_day_std_dev": 2107903.4946735925,
+            "trend": "low"
+        },
+        "sleep_efficiency": {
+            "current_value": 95.0,
+            "7_day_moving_average": 95.42857142857143,
+            "7_day_std_dev": 2.070196678027063,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 71.0,
+            "7_day_moving_average": 78.42857142857143,
+            "7_day_std_dev": 4.314979445958878,
+            "trend": "low"
+        },
+        "rmssd": {
+            "current_value": 39.989,
+            "7_day_moving_average": 46.913714285714285,
+            "7_day_std_dev": 5.860031362665953,
+            "trend": "low"
+        },
+        "nremhr": {
+            "current_value": 60.287,
+            "7_day_moving_average": 59.55114285714286,
+            "7_day_std_dev": 3.224985345112515,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 65.29385662078857,
+            "7_day_moving_average": 64.1701465334211,
+            "7_day_std_dev": 0.7073586773047583,
+            "trend": "high"
+        },
+        "bpm": {
+            "current_value": 76.04456,
+            "7_day_moving_average": 78.17171656688735,
+            "7_day_std_dev": 3.2875568066211995,
+            "trend": "moderate"
+        }
+    },
+    "621e339967b776a240e502de": {
+        "calories": {
+            "current_value": 1600.4199999999998,
+            "7_day_moving_average": 1543.9071428571426,
+            "7_day_std_dev": 147.540116094379,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 3065.0,
+            "7_day_moving_average": 4546.428571428572,
+            "7_day_std_dev": 3352.3525002174647,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 1813.6,
+            "7_day_moving_average": 3022.7285714285713,
+            "7_day_std_dev": 2309.8481290006102,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 165.0,
+            "7_day_moving_average": 142.0,
+            "7_day_std_dev": 41.99603155854927,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 4.0,
+            "7_day_moving_average": 5.428571428571429,
+            "7_day_std_dev": 4.825527358301296,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 19.0,
+            "7_day_moving_average": 13.285714285714286,
+            "7_day_std_dev": 10.06171432898466,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 637.0,
+            "7_day_moving_average": 733.8571428571429,
+            "7_day_std_dev": 81.7504914795187,
+            "trend": "low"
+        },
+        "sleep_duration": {
+            "current_value": 33120000.0,
+            "7_day_moving_average": 32185714.285714287,
+            "7_day_std_dev": 3652427.7640260826,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 90.0,
+            "7_day_moving_average": 92.28571428571429,
+            "7_day_std_dev": 2.288688541085319,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 73.0,
+            "7_day_moving_average": 78.85714285714286,
+            "7_day_std_dev": 3.236694374850751,
+            "trend": "low"
+        },
+        "rmssd": {
+            "current_value": 45.322,
+            "7_day_moving_average": 46.60014285714286,
+            "7_day_std_dev": 1.6985676739115037,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 51.533,
+            "7_day_moving_average": 51.803999999999995,
+            "7_day_std_dev": 1.2379882875051789,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 55.54588890075684,
+            "7_day_moving_average": 56.01479802812849,
+            "7_day_std_dev": 0.2439316321095601,
+            "trend": "low"
+        },
+        "bpm": {
+            "current_value": 70.36958548783589,
+            "7_day_moving_average": 66.03697183023047,
+            "7_day_std_dev": 4.0075861166256965,
+            "trend": "high"
+        }
+    },
+    "621e33b067b776a240f39e56": {
+        "calories": {
+            "current_value": 1876.47,
+            "7_day_moving_average": 2905.8928571428573,
+            "7_day_std_dev": 463.650240976043,
+            "trend": "low"
+        },
+        "steps": {
+            "current_value": 1354.0,
+            "7_day_moving_average": 10510.714285714286,
+            "7_day_std_dev": 4563.850374201069,
+            "trend": "low"
+        },
+        "distance": {
+            "current_value": 1024.6,
+            "7_day_moving_average": 7949.671428571428,
+            "7_day_std_dev": 3451.322181287574,
+            "trend": "low"
+        },
+        "lightly_active_minutes": {
+            "current_value": 68.0,
+            "7_day_moving_average": 314.7142857142857,
+            "7_day_std_dev": 116.30808840562823,
+            "trend": "low"
+        },
+        "moderately_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 23.142857142857142,
+            "7_day_std_dev": 21.294980405630586,
+            "trend": "low"
+        },
+        "very_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 8.285714285714286,
+            "7_day_std_dev": 8.138678961483567,
+            "trend": "low"
+        },
+        "sedentary_minutes": {
+            "current_value": 953.0,
+            "7_day_moving_average": 717.8571428571429,
+            "7_day_std_dev": 130.32706110836253,
+            "trend": "high"
+        },
+        "sleep_duration": {
+            "current_value": 25140000.0,
+            "7_day_moving_average": 21368571.42857143,
+            "7_day_std_dev": 6498716.356767257,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 94.0,
+            "7_day_moving_average": 96.0,
+            "7_day_std_dev": 1.8257418583505551,
+            "trend": "low"
+        },
+        "stress_score": {
+            "current_value": 86.0,
+            "7_day_moving_average": 83.71428571428571,
+            "7_day_std_dev": 3.545621041711671,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 85.472,
+            "7_day_moving_average": 66.19028571428571,
+            "7_day_std_dev": 13.248947187283544,
+            "trend": "high"
+        },
+        "nremhr": {
+            "current_value": 57.095,
+            "7_day_moving_average": 62.608428571428576,
+            "7_day_std_dev": 5.686766974217216,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 67.83405494689941,
+            "7_day_moving_average": 69.23231084006173,
+            "7_day_std_dev": 0.9678295177966372,
+            "trend": "low"
+        },
+        "bpm": {
+            "current_value": 69.31761403508771,
+            "7_day_moving_average": 79.63991596909543,
+            "7_day_std_dev": 4.795252700695128,
+            "trend": "low"
+        }
+    },
+    "621e33cf67b776a240087de9": {
+        "calories": {
+            "current_value": 2371.44,
+            "7_day_moving_average": 3149.4957142857143,
+            "7_day_std_dev": 511.9987068622062,
+            "trend": "low"
+        },
+        "steps": {
+            "current_value": 4620.0,
+            "7_day_moving_average": 10554.285714285714,
+            "7_day_std_dev": 4006.077953738365,
+            "trend": "low"
+        },
+        "distance": {
+            "current_value": 3426.5,
+            "7_day_moving_average": 7125.471428571429,
+            "7_day_std_dev": 2322.2986311800973,
+            "trend": "low"
+        },
+        "lightly_active_minutes": {
+            "current_value": 126.0,
+            "7_day_moving_average": 256.7142857142857,
+            "7_day_std_dev": 118.42397601515538,
+            "trend": "low"
+        },
+        "moderately_active_minutes": {
+            "current_value": 4.0,
+            "7_day_moving_average": 33.285714285714285,
+            "7_day_std_dev": 27.188933322918263,
+            "trend": "low"
+        },
+        "very_active_minutes": {
+            "current_value": 8.0,
+            "7_day_moving_average": 31.142857142857142,
+            "7_day_std_dev": 22.835853180386987,
+            "trend": "low"
+        },
+        "sedentary_minutes": {
+            "current_value": 882.0,
+            "7_day_moving_average": 727.0,
+            "7_day_std_dev": 150.4692659648474,
+            "trend": "high"
+        },
+        "sleep_duration": {
+            "current_value": 25200000.0,
+            "7_day_moving_average": 23511428.57142857,
+            "7_day_std_dev": 3022005.010868494,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 98.0,
+            "7_day_moving_average": 96.57142857142857,
+            "7_day_std_dev": 1.5118578920369068,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 81.0,
+            "7_day_moving_average": 79.71428571428571,
+            "7_day_std_dev": 5.154748157905349,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 41.806,
+            "7_day_moving_average": 43.526,
+            "7_day_std_dev": 6.808295258971462,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 61.822,
+            "7_day_moving_average": 64.29714285714286,
+            "7_day_std_dev": 2.497705175327382,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 64.23986625671387,
+            "7_day_moving_average": 66.8512214933123,
+            "7_day_std_dev": 1.8201847192338019,
+            "trend": "low"
+        },
+        "bpm": {
+            "current_value": 72.59287826198741,
+            "7_day_moving_average": 78.53797041117375,
+            "7_day_std_dev": 4.510678632087611,
+            "trend": "low"
+        }
+    },
+    "621e342e67b776a2404ce460": {
+        "calories": {
+            "current_value": 3322.53,
+            "7_day_moving_average": 3293.0442857142857,
+            "7_day_std_dev": 502.6596031397106,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 10206.0,
+            "7_day_moving_average": 10431.142857142857,
+            "7_day_std_dev": 5641.01921726241,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 7387.1,
+            "7_day_moving_average": 7558.728571428571,
+            "7_day_std_dev": 4159.546278427606,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 254.0,
+            "7_day_moving_average": 260.0,
+            "7_day_std_dev": 52.507142371300304,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 12.0,
+            "7_day_moving_average": 21.0,
+            "7_day_std_dev": 18.520259177452136,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 18.0,
+            "7_day_moving_average": 32.714285714285715,
+            "7_day_std_dev": 36.01256394516727,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 728.0,
+            "7_day_moving_average": 685.5714285714286,
+            "7_day_std_dev": 73.74925342640684,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 25680000.0,
+            "7_day_moving_average": 26442857.14285714,
+            "7_day_std_dev": 3029200.7432418773,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 93.0,
+            "7_day_moving_average": 93.0,
+            "7_day_std_dev": 4.320493798938574,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 0.0,
+            "7_day_moving_average": 38.285714285714285,
+            "7_day_std_dev": 35.84091835558108,
+            "trend": "low"
+        },
+        "rmssd": {
+            "current_value": 80.576,
+            "7_day_moving_average": 74.31871428571428,
+            "7_day_std_dev": 11.926352693570172,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 53.817,
+            "7_day_moving_average": 55.719571428571435,
+            "7_day_std_dev": 3.6667301899259335,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 61.70991516113281,
+            "7_day_moving_average": 61.27114977155413,
+            "7_day_std_dev": 2.1234954024536306,
+            "trend": "moderate"
+        },
+        "bpm": {
+            "current_value": 77.90957026100712,
+            "7_day_moving_average": 74.21447786597112,
+            "7_day_std_dev": 3.591374013594038,
+            "trend": "high"
+        }
+    },
+    "621e346f67b776a24081744f": {
+        "calories": {
+            "current_value": 1547.46,
+            "7_day_moving_average": 1634.1328571428571,
+            "7_day_std_dev": 81.11954341470079,
+            "trend": "low"
+        },
+        "steps": {
+            "current_value": 2699.0,
+            "7_day_moving_average": 4209.285714285715,
+            "7_day_std_dev": 1666.3084662696474,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 1753.1,
+            "7_day_moving_average": 2806.842857142857,
+            "7_day_std_dev": 1115.3894026409832,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 108.0,
+            "7_day_moving_average": 129.71428571428572,
+            "7_day_std_dev": 21.63880993118834,
+            "trend": "low"
+        },
+        "moderately_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 2.7142857142857144,
+            "7_day_std_dev": 7.1813249871753175,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 3.142857142857143,
+            "7_day_std_dev": 8.315218406202998,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 797.0,
+            "7_day_moving_average": 756.8571428571429,
+            "7_day_std_dev": 48.17824049446863,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 32100000.0,
+            "7_day_moving_average": 32854285.714285713,
+            "7_day_std_dev": 1894156.4273915105,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 91.0,
+            "7_day_moving_average": 92.0,
+            "7_day_std_dev": 2.5166114784235836,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 72.0,
+            "7_day_moving_average": 60.285714285714285,
+            "7_day_std_dev": 26.79374482794001,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 21.818,
+            "7_day_moving_average": 23.88814285714286,
+            "7_day_std_dev": 4.161052928789838,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 76.917,
+            "7_day_moving_average": 73.64814285714286,
+            "7_day_std_dev": 4.758414912151998,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 77.83314800262451,
+            "7_day_moving_average": 75.85646029881069,
+            "7_day_std_dev": 1.2399836613834125,
+            "trend": "high"
+        },
+        "bpm": {
+            "current_value": 80.76814768460575,
+            "7_day_moving_average": 81.62064830720757,
+            "7_day_std_dev": 1.9512054920215778,
+            "trend": "moderate"
+        }
+    },
+    "621e34ca67b776a240be3b69": {
+        "calories": {
+            "current_value": 1248.12,
+            "7_day_moving_average": 1383.8085714285714,
+            "7_day_std_dev": 139.45702437532165,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 782.0,
+            "7_day_moving_average": 3298.285714285714,
+            "7_day_std_dev": 3727.4834546597126,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 523.6,
+            "7_day_moving_average": 2217.7571428571428,
+            "7_day_std_dev": 2513.8783150457266,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 69.0,
+            "7_day_moving_average": 108.57142857142857,
+            "7_day_std_dev": 39.47512779315242,
+            "trend": "low"
+        },
+        "moderately_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 5.142857142857143,
+            "7_day_std_dev": 9.668308563352252,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 4.142857142857143,
+            "7_day_std_dev": 10.10657494618514,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 461.0,
+            "7_day_moving_average": 732.0,
+            "7_day_std_dev": 129.07749610214785,
+            "trend": "low"
+        },
+        "sleep_duration": {
+            "current_value": 49680000.0,
+            "7_day_moving_average": 33420000.0,
+            "7_day_std_dev": 7232924.719641426,
+            "trend": "high"
+        },
+        "sleep_efficiency": {
+            "current_value": 95.0,
+            "7_day_moving_average": 95.28571428571429,
+            "7_day_std_dev": 1.799470821684875,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 67.0,
+            "7_day_moving_average": 47.57142857142857,
+            "7_day_std_dev": 32.664237033066925,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 15.872,
+            "7_day_moving_average": 17.778142857142857,
+            "7_day_std_dev": 2.605942339383295,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 75.145,
+            "7_day_moving_average": 71.51114285714286,
+            "7_day_std_dev": 2.3999996825396592,
+            "trend": "high"
+        },
+        "resting_hr": {
+            "current_value": 75.87915706634521,
+            "7_day_moving_average": 74.6552904673985,
+            "7_day_std_dev": 0.8908161999357701,
+            "trend": "high"
+        },
+        "bpm": {
+            "current_value": 80.08527210196237,
+            "7_day_moving_average": 82.1265586453985,
+            "7_day_std_dev": 2.7427682833428713,
+            "trend": "moderate"
+        }
+    },
+    "621e34ec67b776a240d60873": {
+        "calories": {
+            "current_value": 3381.15,
+            "7_day_moving_average": 3247.6271428571426,
+            "7_day_std_dev": 484.6361672675799,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 18410.0,
+            "7_day_moving_average": 15414.0,
+            "7_day_std_dev": 3958.861578787518,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 12961.6,
+            "7_day_moving_average": 10851.785714285714,
+            "7_day_std_dev": 2788.3075544306867,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 252.0,
+            "7_day_moving_average": 236.57142857142858,
+            "7_day_std_dev": 70.68440927309017,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 63.0,
+            "7_day_moving_average": 43.285714285714285,
+            "7_day_std_dev": 27.548226111761934,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 76.0,
+            "7_day_moving_average": 78.57142857142857,
+            "7_day_std_dev": 53.540816650654925,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 638.0,
+            "7_day_moving_average": 680.7142857142857,
+            "7_day_std_dev": 143.94410290770776,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 24660000.0,
+            "7_day_moving_average": 23965714.285714287,
+            "7_day_std_dev": 3171092.646301677,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 93.0,
+            "7_day_moving_average": 93.71428571428571,
+            "7_day_std_dev": 2.2146697055682836,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 79.0,
+            "7_day_moving_average": 55.285714285714285,
+            "7_day_std_dev": 37.946077029183954,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 32.719,
+            "7_day_moving_average": 32.00942857142857,
+            "7_day_std_dev": 2.97011115713104,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 58.219,
+            "7_day_moving_average": 62.02685714285714,
+            "7_day_std_dev": 4.792164418039495,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 65.18289184570312,
+            "7_day_moving_average": 66.89840316772461,
+            "7_day_std_dev": 1.936887825054446,
+            "trend": "moderate"
+        },
+        "bpm": {
+            "current_value": 86.84065338778231,
+            "7_day_moving_average": 84.46223969242064,
+            "7_day_std_dev": 2.4356964325611496,
+            "trend": "moderate"
+        }
+    },
+    "621e351a67b776a240f6204b": {
+        "calories": {
+            "current_value": 2631.8,
+            "7_day_moving_average": 2571.174285714286,
+            "7_day_std_dev": 334.1312785845878,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 6869.0,
+            "7_day_moving_average": 6403.428571428572,
+            "7_day_std_dev": 2962.20558914822,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 4951.0,
+            "7_day_moving_average": 4423.5142857142855,
+            "7_day_std_dev": 2158.0253060213568,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 277.0,
+            "7_day_moving_average": 199.85714285714286,
+            "7_day_std_dev": 60.62020722341291,
+            "trend": "high"
+        },
+        "moderately_active_minutes": {
+            "current_value": 8.0,
+            "7_day_moving_average": 15.714285714285714,
+            "7_day_std_dev": 13.671311638052945,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 23.714285714285715,
+            "7_day_std_dev": 28.329691642716988,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 612.0,
+            "7_day_moving_average": 785.8571428571429,
+            "7_day_std_dev": 144.0791779675659,
+            "trend": "low"
+        },
+        "sleep_duration": {
+            "current_value": 32580000.0,
+            "7_day_moving_average": 23245714.285714287,
+            "7_day_std_dev": 7190815.570672673,
+            "trend": "high"
+        },
+        "sleep_efficiency": {
+            "current_value": 84.0,
+            "7_day_moving_average": 89.42857142857143,
+            "7_day_std_dev": 3.552329886011098,
+            "trend": "low"
+        },
+        "stress_score": {
+            "current_value": 67.0,
+            "7_day_moving_average": 64.28571428571429,
+            "7_day_std_dev": 28.692126014607126,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 20.334,
+            "7_day_moving_average": 33.751,
+            "7_day_std_dev": 23.848250341132644,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 75.473,
+            "7_day_moving_average": 70.41442857142857,
+            "7_day_std_dev": 5.842098819692083,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 66.51091957092285,
+            "7_day_moving_average": 66.84104933057513,
+            "7_day_std_dev": 1.4371580544435072,
+            "trend": "moderate"
+        },
+        "bpm": {
+            "current_value": 83.09653412715288,
+            "7_day_moving_average": 82.82968093731749,
+            "7_day_std_dev": 7.309689429132311,
+            "trend": "moderate"
+        }
+    },
+    "621e360b67b776a24039709f": {
+        "calories": {
+            "current_value": 1184.51,
+            "7_day_moving_average": 1876.277142857143,
+            "7_day_std_dev": 337.28242338403817,
+            "trend": "low"
+        },
+        "steps": {
+            "current_value": 18.0,
+            "7_day_moving_average": 11437.0,
+            "7_day_std_dev": 6456.869520131253,
+            "trend": "low"
+        },
+        "distance": {
+            "current_value": 12.0,
+            "7_day_moving_average": 7675.557142857143,
+            "7_day_std_dev": 4330.999020956228,
+            "trend": "low"
+        },
+        "lightly_active_minutes": {
+            "current_value": 2.0,
+            "7_day_moving_average": 290.2857142857143,
+            "7_day_std_dev": 137.1334074125318,
+            "trend": "low"
+        },
+        "moderately_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 23.142857142857142,
+            "7_day_std_dev": 19.701341506173055,
+            "trend": "low"
+        },
+        "very_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 9.285714285714286,
+            "7_day_std_dev": 10.796824930109247,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 1079.0,
+            "7_day_moving_average": 727.5714285714286,
+            "7_day_std_dev": 158.1116242225274,
+            "trend": "high"
+        },
+        "sleep_duration": {
+            "current_value": 21540000.0,
+            "7_day_moving_average": 22800000.0,
+            "7_day_std_dev": 2860349.628978947,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 96.0,
+            "7_day_moving_average": 92.85714285714286,
+            "7_day_std_dev": 3.023715784073818,
+            "trend": "high"
+        },
+        "stress_score": {
+            "current_value": 72.0,
+            "7_day_moving_average": 48.142857142857146,
+            "7_day_std_dev": 32.99206253746786,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 65.607,
+            "7_day_moving_average": 40.49142857142857,
+            "7_day_std_dev": 15.412394091089407,
+            "trend": "high"
+        },
+        "nremhr": {
+            "current_value": 58.717,
+            "7_day_moving_average": 66.76542857142857,
+            "7_day_std_dev": 5.345725733616314,
+            "trend": "low"
+        },
+        "resting_hr": {
+            "current_value": 64.5314588546753,
+            "7_day_moving_average": 65.89856951577323,
+            "7_day_std_dev": 0.9481420003522155,
+            "trend": "low"
+        },
+        "bpm": {
+            "current_value": 57.84992496248124,
+            "7_day_moving_average": 76.27224604594714,
+            "7_day_std_dev": 8.202985151804356,
+            "trend": "low"
+        }
+    },
+    "621e362467b776a2404ad513": {
+        "calories": {
+            "current_value": 2240.49,
+            "7_day_moving_average": 2402.6985714285715,
+            "7_day_std_dev": 336.4061030177946,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 5897.0,
+            "7_day_moving_average": 5841.142857142857,
+            "7_day_std_dev": 3465.8837943864296,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 4217.8,
+            "7_day_moving_average": 4183.885714285714,
+            "7_day_std_dev": 2484.397018345076,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 158.0,
+            "7_day_moving_average": 167.71428571428572,
+            "7_day_std_dev": 76.77611235645777,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 13.285714285714286,
+            "7_day_std_dev": 13.275469680508303,
+            "trend": "low"
+        },
+        "very_active_minutes": {
+            "current_value": 0.0,
+            "7_day_moving_average": 7.142857142857143,
+            "7_day_std_dev": 6.1759903774906535,
+            "trend": "low"
+        },
+        "sedentary_minutes": {
+            "current_value": 656.0,
+            "7_day_moving_average": 772.1428571428571,
+            "7_day_std_dev": 101.59794711086863,
+            "trend": "low"
+        },
+        "sleep_duration": {
+            "current_value": 37560000.0,
+            "7_day_moving_average": 28105714.285714287,
+            "7_day_std_dev": 6574026.815539207,
+            "trend": "high"
+        },
+        "sleep_efficiency": {
+            "current_value": 96.0,
+            "7_day_moving_average": 97.85714285714286,
+            "7_day_std_dev": 1.6761634196950532,
+            "trend": "low"
+        },
+        "stress_score": {
+            "current_value": 75.0,
+            "7_day_moving_average": 32.57142857142857,
+            "7_day_std_dev": 40.652417488004915,
+            "trend": "high"
+        },
+        "rmssd": {
+            "current_value": 28.419,
+            "7_day_moving_average": 33.29742857142857,
+            "7_day_std_dev": 6.417103262821496,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 71.708,
+            "7_day_moving_average": 60.52014285714285,
+            "7_day_std_dev": 27.169113440501825,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 75.06341648101807,
+            "7_day_moving_average": 73.94996166229248,
+            "7_day_std_dev": 1.22027567958696,
+            "trend": "moderate"
+        },
+        "bpm": {
+            "current_value": 79.6543138866064,
+            "7_day_moving_average": 84.81715477260377,
+            "7_day_std_dev": 5.725109165958208,
+            "trend": "moderate"
+        }
+    },
+    "621e366567b776a24076a727": {
+        "calories": {
+            "current_value": 3800.45,
+            "7_day_moving_average": 3634.002857142857,
+            "7_day_std_dev": 279.34344564318945,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 21413.0,
+            "7_day_moving_average": 16489.14285714286,
+            "7_day_std_dev": 3872.8343379912094,
+            "trend": "high"
+        },
+        "distance": {
+            "current_value": 14638.6,
+            "7_day_moving_average": 11893.242857142857,
+            "7_day_std_dev": 2480.1890229423666,
+            "trend": "high"
+        },
+        "lightly_active_minutes": {
+            "current_value": 363.0,
+            "7_day_moving_average": 403.0,
+            "7_day_std_dev": 66.87550622861357,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 65.0,
+            "7_day_moving_average": 41.57142857142857,
+            "7_day_std_dev": 19.71342303150439,
+            "trend": "high"
+        },
+        "very_active_minutes": {
+            "current_value": 46.0,
+            "7_day_moving_average": 28.285714285714285,
+            "7_day_std_dev": 17.055930402788405,
+            "trend": "high"
+        },
+        "sedentary_minutes": {
+            "current_value": 517.0,
+            "7_day_moving_average": 571.7142857142857,
+            "7_day_std_dev": 80.45022122553854,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 26940000.0,
+            "7_day_moving_average": 23725714.285714287,
+            "7_day_std_dev": 4903001.995862185,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 94.0,
+            "7_day_moving_average": 93.57142857142857,
+            "7_day_std_dev": 3.59894164336975,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 76.0,
+            "7_day_moving_average": 70.28571428571429,
+            "7_day_std_dev": 31.22880233435306,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 62.157,
+            "7_day_moving_average": 57.00485714285714,
+            "7_day_std_dev": 6.566903898301221,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 46.697,
+            "7_day_moving_average": 47.678285714285714,
+            "7_day_std_dev": 2.082874193215207,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 49.95937919616699,
+            "7_day_moving_average": 51.40880816323416,
+            "7_day_std_dev": 1.2156261550414165,
+            "trend": "low"
+        },
+        "bpm": {
+            "current_value": 65.62200379375754,
+            "7_day_moving_average": 67.04823217083248,
+            "7_day_std_dev": 1.21062445989753,
+            "trend": "low"
+        }
+    },
+    "621e36f967b776a240e5e7c9": {
+        "calories": {
+            "current_value": 2181.26,
+            "7_day_moving_average": 2401.5600000000004,
+            "7_day_std_dev": 518.7180122507153,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 7637.0,
+            "7_day_moving_average": 11402.857142857143,
+            "7_day_std_dev": 9093.498234610108,
+            "trend": "moderate"
+        },
+        "distance": {
+            "current_value": 5228.7,
+            "7_day_moving_average": 7827.4857142857145,
+            "7_day_std_dev": 6232.935127858724,
+            "trend": "moderate"
+        },
+        "lightly_active_minutes": {
+            "current_value": 217.0,
+            "7_day_moving_average": 251.85714285714286,
+            "7_day_std_dev": 106.98197444963736,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 19.0,
+            "7_day_moving_average": 32.0,
+            "7_day_std_dev": 31.42186075542525,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 13.0,
+            "7_day_moving_average": 25.571428571428573,
+            "7_day_std_dev": 19.17339426442401,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 720.0,
+            "7_day_moving_average": 629.5714285714286,
+            "7_day_std_dev": 179.33660821934558,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 28260000.0,
+            "7_day_moving_average": 29322857.14285714,
+            "7_day_std_dev": 2739864.438773777,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 96.0,
+            "7_day_moving_average": 96.14285714285714,
+            "7_day_std_dev": 1.2149857925879128,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 0.0,
+            "7_day_moving_average": 70.42857142857143,
+            "7_day_std_dev": 31.64836563898755,
+            "trend": "low"
+        },
+        "rmssd": {
+            "current_value": 80.609,
+            "7_day_moving_average": 72.51228571428571,
+            "7_day_std_dev": 14.279059396126035,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 60.449,
+            "7_day_moving_average": 61.289,
+            "7_day_std_dev": 2.0977009637537334,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 68.36413288116455,
+            "7_day_moving_average": 67.50439139774868,
+            "7_day_std_dev": 0.6904645041830513,
+            "trend": "high"
+        },
+        "bpm": {
+            "current_value": 75.83545377438507,
+            "7_day_moving_average": 77.2270067726446,
+            "7_day_std_dev": 3.107052002578319,
+            "trend": "moderate"
+        }
+    },
+    "621e375b67b776a240290cdc": {
+        "calories": {
+            "current_value": 2209.04,
+            "7_day_moving_average": 2204.5714285714284,
+            "7_day_std_dev": 219.532267136942,
+            "trend": "moderate"
+        },
+        "steps": {
+            "current_value": 17051.0,
+            "7_day_moving_average": 12104.0,
+            "7_day_std_dev": 3620.0537288830396,
+            "trend": "high"
+        },
+        "distance": {
+            "current_value": 11254.1,
+            "7_day_moving_average": 7917.214285714285,
+            "7_day_std_dev": 2375.870795749474,
+            "trend": "high"
+        },
+        "lightly_active_minutes": {
+            "current_value": 273.0,
+            "7_day_moving_average": 281.85714285714283,
+            "7_day_std_dev": 57.51935492054992,
+            "trend": "moderate"
+        },
+        "moderately_active_minutes": {
+            "current_value": 49.0,
+            "7_day_moving_average": 33.714285714285715,
+            "7_day_std_dev": 16.750266522399833,
+            "trend": "moderate"
+        },
+        "very_active_minutes": {
+            "current_value": 26.0,
+            "7_day_moving_average": 24.857142857142858,
+            "7_day_std_dev": 18.142294704442907,
+            "trend": "moderate"
+        },
+        "sedentary_minutes": {
+            "current_value": 556.0,
+            "7_day_moving_average": 629.4285714285714,
+            "7_day_std_dev": 75.27030654659943,
+            "trend": "moderate"
+        },
+        "sleep_duration": {
+            "current_value": 28380000.0,
+            "7_day_moving_average": 27145714.285714287,
+            "7_day_std_dev": 1991438.8194038428,
+            "trend": "moderate"
+        },
+        "sleep_efficiency": {
+            "current_value": 93.0,
+            "7_day_moving_average": 94.85714285714286,
+            "7_day_std_dev": 2.4102953780654786,
+            "trend": "moderate"
+        },
+        "stress_score": {
+            "current_value": 84.0,
+            "7_day_moving_average": 83.85714285714286,
+            "7_day_std_dev": 2.544836041121407,
+            "trend": "moderate"
+        },
+        "rmssd": {
+            "current_value": 20.818,
+            "7_day_moving_average": 23.08157142857143,
+            "7_day_std_dev": 3.703358604345647,
+            "trend": "moderate"
+        },
+        "nremhr": {
+            "current_value": 63.397,
+            "7_day_moving_average": 63.955571428571425,
+            "7_day_std_dev": 4.2585385152319875,
+            "trend": "moderate"
+        },
+        "resting_hr": {
+            "current_value": 73.42237758636475,
+            "7_day_moving_average": 72.72179331098285,
+            "7_day_std_dev": 1.3305035646681644,
+            "trend": "moderate"
+        },
+        "bpm": {
+            "current_value": 78.87459135488558,
+            "7_day_moving_average": 83.76046027286175,
+            "7_day_std_dev": 4.155734724802055,
+            "trend": "low"
+        }
+    }
+}
